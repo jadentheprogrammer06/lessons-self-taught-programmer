@@ -1,0 +1,1 @@
+writing to file using [with [open(file, mode)] as [variable]: ]! automatically closes file object in script.
